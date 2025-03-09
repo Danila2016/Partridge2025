@@ -1,0 +1,8 @@
+# These 2 are only required if you want to do GPU computation (rather than only processing results)
+llvmlite==0.42.0
+numba==0.59.0
+#
+numpy==1.26.4
+tqdm==4.67.1
+# Required for plotting
+matplotlib==3.10.1
