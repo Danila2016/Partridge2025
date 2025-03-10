@@ -27,7 +27,7 @@ from tqdm import tqdm
 Автор - Данила Потапов
 
 Варианты выводятся на экран, поэтому запускать программу нужно с сохранением результатов в файл
-python cuda9_3_release.py > result9.txt
+python cuda9_3.py > result9.txt
 
 """
 
