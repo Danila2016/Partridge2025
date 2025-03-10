@@ -1,6 +1,6 @@
 import os, json
 from tqdm import tqdm
-from cuda9_3_release import N, SIZE, rotate90, flip, decode, encode, is_less
+from cuda9_3 import N, SIZE, rotate90, flip, decode, encode, is_less
 
 """
 Вспомогательный скрипт для агрегации и подсчёта результатов
