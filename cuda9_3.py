@@ -31,6 +31,8 @@ python cuda9_3_release.py > result9.txt
 
 """
 
+#N = int32(8)
+#SIZE = int32(36)  # сторона большого квадрата
 
 N = int32(9)
 SIZE = int32(45)  # сторона большого квадрата
