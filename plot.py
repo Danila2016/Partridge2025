@@ -8,7 +8,7 @@ mp.use('agg')
 from matplotlib import pyplot as plt
 from tqdm import tqdm
 
-from cuda9_3_release import SIZE, N, decode
+from cuda9_3 import SIZE, N, decode
 
 """ Визуализация 100 случайных заполнений. Сохраняется в папку results. """
 
