@@ -13,6 +13,7 @@ This repository contains 3 main files:
 Use requirements.txt file to install pip libraries (preferably in a virtual environment).
 
 Computation requires Nvidia GPU with CUDA installed.
+
 For a quick test set N = int32(8) and SIZE = int32(36) in cuda9_3.py. You should get 2332 after running cuda9_3.py and process9.py.
 
 You can see a few examples of combinations of SIZE 45 in the file 100examples.zip.
