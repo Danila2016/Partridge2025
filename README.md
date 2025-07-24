@@ -1,8 +1,9 @@
 Russian version [below](#по-русски)
 
-Problem:
-
+There is an equality for the number 2025:
 $2025 = 45^2 = (1+2+\ldots+9)^2 = 1^3 + 2^3 + \ldots + 9^3$
+
+Therefore, it is possible to state the following problem:
 
 *How many combinations of 1 square of size 1, 2 squares of size 2, 3 squares of size 3, ..., 8 squares of size 8, 9 squares of size 9 exist such that they fill the square of size 45 with no intersection?*
 
@@ -23,6 +24,8 @@ python process9.py
 ```
 
 You can see a few examples of combinations of SIZE 45 in the file 100examples.zip.
+
+More details on the solution in [https://habr.com/ru/articles/889410/](my article) (in Russian).
 
 ## По-русски
 
@@ -50,3 +53,4 @@ python process9.py
 
 Примеры вариантов заполнения квадрата со стороной 45 находятся в файле 100examples.zip.
 
+Подробности решения в моей [https://habr.com/ru/articles/889410/](статье на Хабре).
